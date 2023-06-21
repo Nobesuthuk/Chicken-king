@@ -1,3 +1,20 @@
 #logo{
     font-family: 'Pacifico', cursive;
+    }
+    .img{width: 100px;height: 100;}
+    
+     .textonimage{
+        position: absolute;
+        width: 100px;
+        top: 60%;
+        color: white;
+        font: size 30px;
+     }
+ #toprow {
+    padding: top 100px;
+    padding-left: 40px;
+    padding: bottom 20px;
+    
+ }
+ .move{text-align:center;
 }
